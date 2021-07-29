@@ -2,9 +2,6 @@
 
 ![redux-store-demo](./media/demos/redux-store-demo.gif)
 
-- [Deployed Site](https://redux-store-huirayj.herokuapp.com/)
-- [Repository](https://github.com/huirayj/redux-store)
-
 ## Overview
 Given a functional MERN e-Commerce site, the user is tasked with refactoring the application to use Redux to manage the global state. Doing so allows state management to be separated from the React lifecycle. 
 
